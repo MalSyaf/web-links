@@ -28,3 +28,4 @@ C:\Users\ekhmal.zamri\web-links\obj\Debug\net8.0\refint\web-links.dll
 C:\Users\ekhmal.zamri\web-links\obj\Debug\net8.0\web-links.pdb
 C:\Users\ekhmal.zamri\web-links\obj\Debug\net8.0\web-links.genruntimeconfig.cache
 C:\Users\ekhmal.zamri\web-links\obj\Debug\net8.0\ref\web-links.dll
+C:\Users\ekhmal.zamri\web-links\obj\Debug\net8.0\web-links.sourcelink.json
